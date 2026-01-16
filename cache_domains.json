@@ -41,6 +41,11 @@
       "domain_files": ["frontier.txt"]
     },
     {
+      "name": "iracing",
+      "description": "CDN for iRacing",
+      "domain_files": ["iracing.txt"]
+    },
+    {
       "name": "neverwinter",
       "description": "Cryptic CDN for Neverwinter",
       "domain_files": ["neverwinter.txt"]

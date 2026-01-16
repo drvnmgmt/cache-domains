@@ -1,3 +1,6 @@
 scripts/output
 scripts/config.json
 megalinter-reports/
+
+# Code editors
+.idea/
